@@ -4,6 +4,8 @@ Backend for the Moove Flutter app, running on **Cloudflare** (Workers + Hono + T
 
 The source of truth is [BACKEND_MASTER_PLAN.md](BACKEND_MASTER_PLAN.md). If this file and the plan disagree, the plan wins. Ask before deviating from it.
 
+Database design: [docs/DATABASE_PLAN.md](docs/DATABASE_PLAN.md). Its proposed changes (P1–P14) apply only once approved. Until then, the master plan's schema wins.
+
 > Status: nothing is built yet. The repo only has a README. Work starts at Phase 0/1 of the plan.
 
 ## How to work (read this first)
